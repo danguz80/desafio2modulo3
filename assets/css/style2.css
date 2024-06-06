@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img{
+    width: 500px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+.numero{
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+p{
+    font-size: 1.5rem;
+}
+ button{
+    width: 300px;
+}
+
+.verificar{
+    justify-content: center;
+}
+
+.respuesta{
+    justify-content: center;
+}
